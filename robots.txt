@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://kirimigamaliel70-stack.github.io/Forex-Trading/sitemap.xml
+Host: kirimigamaliel70-stack.github.io
